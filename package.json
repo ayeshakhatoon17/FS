@@ -1,0 +1,21 @@
+{
+  "name": "fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+   "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayeshakhatoon17/FS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayeshakhatoon17/FS/issues"
+  },
+  "homepage": "https://github.com/ayeshakhatoon17/FS#readme"
+}
