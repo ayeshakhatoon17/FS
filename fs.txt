@@ -1,0 +1,6 @@
+// to create file, read file, delete file
+File systems are  promises
+
+
+
+it reads the file in hexa decimal value if we don't give utf-8 as parameter, if we give utf-8 it reads and prints the values written in the file
